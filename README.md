@@ -62,7 +62,8 @@ Contributed to real-time tracking and management solutions.
 
 ### **Amarti** | ASP.NET Core Developer  
 
-Developed a community communication website to facilitate interaction among residential neighbors.
+- Implemented a **Multi-Layer Perceptron (MLP)** model using the  
+  Just Neural Network framework to predict climate trends.
 
 ---
 
@@ -93,22 +94,13 @@ Developed a community communication website to facilitate interaction among resi
 _Aug 2021 – Present_  
 
 - Illustrated children's books such as _Alif Jumps to the Moon_ using digital art techniques.  
-- Published works in **IGY Magazine** and contributed digital art to an **NFT** project  
-  for a blockchain platform.
+- Published works in **IGY Magazine** and contributed digital art to an  
+  **NFT** project for a blockchain platform.
 
 ---
 
 ## 🌍 Let's Connect
 
 - 📧 **Email:** [sajakhalee595@gmail.com](mailto:sajakhalee595@gmail.com)  
-- 🔗 **LinkedIn:** [Saja Abusafia](https://www.linkedin.com/in/sajaabusafia/)  
-
----
-
-### **Key Improvements**
-
-1. **Replaced `<span>` and `<img>` with Markdown-friendly syntax.**
-2. **Wrapped lines to fit within the 80-character limit.**
-3. **Kept the structure clear and concise.**
-
-Let me know if you'd like further edits or want me to automate this for other markdown files! 😊
+- 🔗 **LinkedIn:**  
+  [Saja Abusafia](https://www.linkedin.com/in/sajaabusafia/)
