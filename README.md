@@ -93,7 +93,8 @@ Contributed to real-time tracking and management solutions.
 
 _Aug 2021 – Present_  
 
-- Illustrated children's books such as _Alif Jumps to the Moon_ using digital art techniques.  
+- Illustrated children's books such as _Alif Jumps to the Moon_
+  using digital art techniques.  
 - Published works in **IGY Magazine** and contributed digital art to an  
   **NFT** project for a blockchain platform.
 
